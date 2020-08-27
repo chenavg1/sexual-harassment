@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6O9aessXs6R_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6VekNACcjcS_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">מניעת הטרדה מינית</langstring>
+          <langstring xml:lang="x-none">מניעה 24.08.20</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,17 +50,17 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="מניעת_הטרדה_מינית_ORG">
-    <organization identifier="מניעת_הטרדה_מינית_ORG">
-      <title>מניעת הטרדה מינית</title>
-      <item identifier="לומדה_למניעת_הטרדה_מינית_SCO" isvisible="true" identifierref="__6O9aessXs6R_course_id_RES">
-        <title>מניעת הטרדה מינית</title>
+  <organizations default="מניעה_24.08.20_ORG">
+    <organization identifier="מניעה_24.08.20_ORG">
+      <title>מניעה 24.08.20</title>
+      <item identifier="לומדה_למניעת_הטרדה_מינית_SCO" isvisible="true" identifierref="__6VekNACcjcS_course_id_RES">
+        <title>מניעה 24.08.20</title>
         <adlcp:masteryscore>80</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6O9aessXs6R_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+    <resource identifier="__6VekNACcjcS_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6eos8gfCrZW_DX1436_DY1436_CX1506_CY849.jpg" />
       <file href="story_content/68KT5tM70Nq_44100_160_0.mp3" />
@@ -229,7 +229,7 @@
       <file href="mobile/5fSP7UacWMe_P_0_0_500_352_DX438_DY438_CX458_CY323.png" />
       <file href="story_content/6IKveir9rHv_44100_160_0.mp3" />
       <file href="mobile/64MgBtpJgGe_P_0_0_504_552_DX1428_DY1428_CX504_CY552.png" />
-      <file href="story_content/6IAdElnbFE6_44100_160_0.mp3" />
+      <file href="story_content/6h7KPqY0sSl_44100_160_0.mp3" />
       <file href="mobile/6f5LTtQQbbe_DX186_DY186_CX195_CY192.png" />
       <file href="mobile/6N4k0lt5zfL_DX540_DY540_CX566_CY301.png" />
       <file href="mobile/5cDTB8fW0J3_DX118_DY118_CX122_CY81.png" />
